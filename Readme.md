@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий Абашин](https://up.htmlacademy.ru/javascript/18/user/1069429).
-* Наставник: `Неизвестно`.
+* Наставник: Юрий Матюхин.
 
 ---
 
